@@ -1,5 +1,4 @@
-### 🛠️ **Open Source Contributions – OWASP BLT**
-**Duration:** 2 months  
+**Duration:** more than 2 months  
 **Role:** Contributor (UI/UX Improvements, Docker Optimization, Bug Fixes, Documentation, and Automation)  
 **Tech Stack:** Python (Django), PostgreSQL, Docker, Git, Sentry, RapidAPI  
 
@@ -31,6 +30,10 @@
    - **Handled Sentry Failures Gracefully:** Fixed issues where the application repeatedly attempted to connect to **Sentry** (even when commented out), causing unnecessary container crashes.
    - **PR:**
      - [#3080](https://github.com/OWASP-BLT/BLT/pull/3080) – Sentry bug fix and improved error handling.
+
+5. **Fixed the Docker build:**
+    - **PR:**
+      - [#2967](https://github.com/OWASP-BLT/BLT/pull/2967) - revamped the docker build to setup seamlessly and have no connectivity issues
 
 ## 🛠️ **Pull Requests**
 1. [#3116](https://github.com/OWASP-BLT/BLT/pull/3116) - Improved Docker setup, optimized build process.
