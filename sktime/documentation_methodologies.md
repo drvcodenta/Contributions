@@ -1,4 +1,5 @@
 ### ✅ **Contribution:**
+- issue link: https://github.com/sktime/sktime/issues/6284
 - Provided a **meta plan** for documentation methodologies to improve sktime's documentation structure.
 - Communicated with the maintainers to understand their needs and align the plan with the project's goals.
 - Shared visual references (handwritten photos) outlining the proposed methodologies, including:
