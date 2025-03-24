@@ -1,5 +1,6 @@
 **Time Spent:** ~1 month  
 
+**Issue Link:** [GitHub Issue](https://github.com/openvinotoolkit/openvino/issues/20210##issuecomment-1884629007)  
 #### **Context:**
 The task aimed to automate the movement of issues between columns in the OpenVINO GitHub Project Board. While default GitHub workflows automated some transitions (e.g., moving issues labeled "good first issue" to the **Contributors needed** column and closed issues to the **Closed** column), the **Assigned** and **In review** columns required custom automation.
 
