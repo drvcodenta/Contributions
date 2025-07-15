@@ -2,11 +2,13 @@
 Open-source IT and security project for teams to monitor security flaws in the devices of the IT Teams
 
 ### Why do I love this project?
-I came across many projects during my open-source journey
+I came across many projects during my open-source journey.
+The most important thing that acted as a fuel for me being engaged in the community was people.
+Whatever projects I had been able to contribute to had great people and great communication.
+There were many projects where the reply never even came, even after months.
 
-The most important thing that acted as a fuel for me being engaged in the community was people --> whatever projects i had been able to contribute to, had great people and great communication --> there were many projects where the reply never even came, even after months!!!
+This is the exact reason why Fleet stood out. The people here — especially Scott — are incredibly supportive. Replies come within days (sometimes even in seconds 🙌😭).
 
-This is the exact reason --> people at fleet --> they are very cooperative and supportive(love you Scott😸), they reply within 2 days on any platform(be it linkedin, slack, github). Sometimes, reply comes under minutes and seconds(yes, just like that🙌😭). This is a goldmine for someone like me who has been finding good open source security projects to contribute to...
 
 ## Contribution Details
 ### Feature: Surface `team_id` and `team_name` in Activity Feed ([#28394](https://github.com/fleetdm/fleet/pull/28394))
