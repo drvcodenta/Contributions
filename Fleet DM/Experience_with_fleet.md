@@ -1,7 +1,7 @@
 ## Overview
 Open-source IT and security project for teams to monitor security flaws in the devices of the IT Teams
 
-### Why do I love this project?
+### Why do I like this project?
 I came across many projects during my open-source journey.
 The most important thing that acted as a fuel for me being engaged in the community was people.
 Whatever projects I had been able to contribute to had great people and great communication.
