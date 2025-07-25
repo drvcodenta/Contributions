@@ -51,6 +51,7 @@ This is the exact reason why Fleet stood out. The people here — especially Sco
 
 - Identified and documented the root cause for missing software URLs in GitOps export: [Issue #30282](https://github.com/fleetdm/fleet/issues/30282)
 - Tracked and fixed the original behavior discussed in [Issue #29617](https://github.com/fleetdm/fleet/issues/29617)
+- Website request: Fleet Docs powered AI Chatbot in [Issue #31074](https://github.com/fleetdm/fleet/issues/31074)
 
 ---
 
