@@ -31,5 +31,3 @@ This is the exact reason why Fleet stood out. The people here — especially Sco
 - contributions were acknowledged and merged into the main branch as part of the upcoming release cycles.
 
 ---
-
-planning to continue contributing in this project...
