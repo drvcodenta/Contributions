@@ -7,7 +7,7 @@ The most important thing that acted as a fuel for me being engaged in the commun
 Whatever projects I had been able to contribute to had great people and great communication.
 There were many projects where the reply never even came, even after months.
 
-This is the exact reason why Fleet stood out. The people here — especially Scott and Ian — are incredibly supportive. Replies come within days (sometimes even in seconds 🙌).
+This is the exact reason why Fleet stood out. The people here — especially Scott and Ian — are incredibly supportive. Replies come within a day (sometimes even in seconds 🙌).
 
 
 ## Contribution Details
