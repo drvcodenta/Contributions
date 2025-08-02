@@ -23,6 +23,7 @@ This is the exact reason why Fleet stood out. The people here — especially Sco
 - Website request: Fleet Docs powered AI Chatbot in [Issue #31074](https://github.com/fleetdm/fleet/issues/31074)
 - fleetctl generate-gitops doesn't handle emoji-only team names gracefully [Issue #31202](https://github.com/fleetdm/fleet/issues/31202)
 - Activity feed: Surface team_id and team_name in policy and query activities [Issue #27689](https://github.com/fleetdm/fleet/issues/27689)
+- Include CVE number in empty state on vulnerability details [#31377](https://github.com/fleetdm/fleet/issues/31377)
 ---
 
 ## Maintainers' Response
