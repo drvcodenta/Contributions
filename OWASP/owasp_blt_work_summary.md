@@ -1,4 +1,3 @@
-**Duration:** more than 2 months  
 **Role:** Contributor (UI/UX Improvements, Docker Optimization, Bug Fixes, Documentation, and Automation)  
 **Tech Stack:** Python (Django), PostgreSQL, Docker, Git, Sentry, RapidAPI  
 
